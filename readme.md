@@ -15,4 +15,4 @@ Nama Anggota :
 
 -Tristan CINA
 
-VISI membuat sandwich yang becek dan basah
+VISI membuat sandwich yang enak dan mantap
