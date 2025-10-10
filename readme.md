@@ -1,4 +1,4 @@
-# PROJEK WEB STARSANDWICH
+# PROJEK WEB SANDWICH BECEK
 Nama Anggota :
 
 -Adhitya Hytam
@@ -13,4 +13,4 @@ Nama Anggota :
 
 -Hafis Zeus
 
--Tristan Kodings
+-Tristan CINA
