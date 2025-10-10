@@ -16,6 +16,7 @@ Nama Anggota :
 -Tristan CINA
 
 VISI membuat sandwich yang enak dan mantap
+
 razi koding
 
 -pembuatan sando menggunakan krim yang bernama wippy cream dan dipadukan dengan buah yang segar dan berhasiat
