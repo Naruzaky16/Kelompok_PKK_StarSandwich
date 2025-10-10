@@ -14,3 +14,5 @@ Nama Anggota :
 -Hafis Zeus
 
 -Tristan CINA
+
+VISI membuat sandwich yang becek dan basah
