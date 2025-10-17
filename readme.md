@@ -22,3 +22,5 @@ VISI membuat sandwich yang enak dan mantap
 jika anda beli produk ini sebanyak 100pcs maka dapat hadiah yaitu fotbar bersama ucup 
 
 BAGAS KETUA
+
+🈴
