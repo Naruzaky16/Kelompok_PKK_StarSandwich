@@ -24,3 +24,4 @@ jika anda beli produk ini sebanyak 100pcs maka dapat hadiah yaitu fotbar bersama
 BAGAS KETUA
 
 🈴
+git add media
